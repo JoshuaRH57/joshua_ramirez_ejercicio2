@@ -1,3 +1,9 @@
 Nueva linea3
+<<<<<<< HEAD
 Nueva linea desde master
 Nueva linea desde master 2
+=======
+Nueva linea x1
+Nueva linea x2
+Nueva linea x3
+>>>>>>> joshua_ramirez_rama
